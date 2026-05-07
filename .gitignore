@@ -1,8 +1,20 @@
-*.pkl
+# Model checkpoints
 *.pth
+
+# Data files
+*.pkl
+
+# Numpy arrays
+*.npy
+
+# Checkpoint directories
+checkpoint*/
 all-organs4/
-unhelathy-dataset/
-checkpoint/
+
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+
+# Jupyter checkpoints
 .ipynb_checkpoints/
