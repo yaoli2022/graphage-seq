@@ -1,0 +1,25 @@
+digraph {
+	graph [fontsize=10 overlap=false sep="+8" splines=true]
+	5360 [label="cg07414384
+BAZ1A
+dist_tss:186
+imprtnce:0.51
+hyper:0.00
+Chrom:14" color=green fillcolor="#D95F5F" fixedsize=false fontcolor=white fontsize=7 penwidth=2 shape=circle style=filled width=1.2]
+	19676 [label="cg26753137
+SIRT5
+dist_tss:616
+imprtnce:0.53
+hyper:0.00
+Chrom:6" color=gold fillcolor="#222222" fixedsize=false fontcolor=white fontsize=7 penwidth=4 shape=circle style=filled width=1.2]
+	11480 [label="cg15683743
+SPPL2A
+dist_tss:456
+imprtnce:0.52
+hyper:0.00
+Chrom:15" color=green fillcolor="#D95F5F" fixedsize=false fontcolor=white fontsize=7 penwidth=2 shape=circle style=filled width=1.2]
+	5360 -> 19676 [label="cometh:0.71
+imprtnce:0.50" color="#555555" fontsize=6 penwidth=2.486911659268127]
+	11480 -> 19676 [label="cometh:0.71
+imprtnce:0.42" color="#555555" fontsize=6 penwidth=2.082639548970365]
+}

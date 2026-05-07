@@ -1,0 +1,2 @@
+Model,MAE,MSE,R2,Best_epoch
+DeepMAge (reimplemented),3.2215,29.5737,0.957,130

@@ -1,0 +1,41 @@
+digraph {
+	graph [fontsize=10 overlap=false sep="+8" splines=true]
+	13088 [label="cg17832162
+SEC11L3
+dist_tss:423
+imprtnce:0.52
+hyper:0.00
+Chrom:18" color=green fillcolor="#222222" fixedsize=false fontcolor=white fontsize=7 penwidth=4 shape=circle style=filled width=1.2]
+	5041 [label="cg06952117
+NAB1
+dist_tss:587
+imprtnce:0.50
+hyper:0.00
+Chrom:2" color=green fillcolor="#D95F5F" fixedsize=false fontcolor=white fontsize=7 penwidth=2 shape=circle style=filled width=1.2]
+	10581 [label="cg14490250
+FAM96A
+dist_tss:26
+imprtnce:0.51
+hyper:0.00
+Chrom:15" color=gold fillcolor="#D95F5F" fixedsize=false fontcolor=white fontsize=7 penwidth=2 shape=circle style=filled width=1.2]
+	16149 [label="cg21989500
+NDUFAB1
+dist_tss:62
+imprtnce:0.50
+hyper:0.00
+Chrom:16" color=gold fillcolor="#D95F5F" fixedsize=false fontcolor=white fontsize=7 penwidth=2 shape=circle style=filled width=1.2]
+	3678 [label="cg05032550
+C14orf2
+dist_tss:54
+imprtnce:0.50
+hyper:0.00
+Chrom:14" color=gold fillcolor="#D95F5F" fixedsize=false fontcolor=white fontsize=7 penwidth=2 shape=circle style=filled width=1.2]
+	5041 -> 13088 [label="cometh:0.76
+imprtnce:0.42" color="#555555" fontsize=6 penwidth=2.0804065888126693]
+	16149 -> 13088 [label="cometh:0.71
+imprtnce:0.36" color="#555555" fontsize=6 penwidth=1.7848788088276275]
+	3678 -> 13088 [label="cometh:0.71
+imprtnce:0.35" color="#555555" fontsize=6 penwidth=1.7552907850061144]
+	10581 -> 13088 [label="cometh:0.73
+imprtnce:0.29" color="#555555" fontsize=6 penwidth=1.4300525607097716]
+}

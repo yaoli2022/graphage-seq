@@ -1,0 +1,2 @@
+Model,MAE,MSE,R2,Best_epoch
+ResnetAge (reimplemented),5.5524,58.4811,0.915,219

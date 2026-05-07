@@ -1,0 +1,4 @@
+disease,n,Horvath_mean_accel,Horvath_std_accel,AltumAge_mean_accel,AltumAge_std_accel,PNA-GNN_mean_accel,PNA-GNN_std_accel,PNA-GNN+Stat_mean_accel,PNA-GNN+Stat_std_accel,DeepMAge_mean_accel,DeepMAge_std_accel,ResnetAge_mean_accel,ResnetAge_std_accel,PNA-GNN+CNN_mean_accel,PNA-GNN+CNN_std_accel
+Osteoporosis,130,3.9,10.608,4.039,9.83,-3.357,6.2,-0.857,7.711,-1.511,7.063,15.632,13.612,3.911,13.609
+Ovarian Cancer,266,-5.946,9.671,-2.918,7.115,-5.08,5.638,-3.71,5.575,-2.739,7.075,8.454,9.418,-4.825,8.192
+Schizophrenia,326,0.452,4.595,2.823,4.648,-2.838,4.124,-1.043,3.414,0.304,3.982,12.273,6.794,6.986,6.583

@@ -1,0 +1,65 @@
+digraph {
+	graph [fontsize=10 overlap=false sep="+8" splines=true]
+	12384 [label="cg16873863
+SLC22A18
+dist_tss:225
+imprtnce:0.51
+hypo:0.00
+Chrom:11" color=green fillcolor="#5B8DB8" fixedsize=false fontcolor=white fontsize=7 penwidth=2 shape=circle style=filled width=1.2]
+	11522 [label="cg15746187
+FBXO44
+dist_tss:1309
+imprtnce:0.50
+hypo:0.00
+Chrom:1" color=gold fillcolor="#5B8DB8" fixedsize=false fontcolor=white fontsize=7 penwidth=2 shape=circle style=filled width=1.2]
+	9389 [label="cg12916723
+NKG7
+dist_tss:828
+imprtnce:0.51
+hypo:0.00
+Chrom:19" color=green fillcolor="#5B8DB8" fixedsize=false fontcolor=white fontsize=7 penwidth=2 shape=circle style=filled width=1.2]
+	17230 [label="cg23471482
+CCL22
+dist_tss:520
+imprtnce:0.51
+hyper:0.00
+Chrom:16" color=green fillcolor="#D95F5F" fixedsize=false fontcolor=white fontsize=7 penwidth=2 shape=circle style=filled width=1.2]
+	239 [label="cg00334507
+MVP
+dist_tss:509
+imprtnce:0.53
+hyper:0.00
+Chrom:16" color=green fillcolor="#222222" fixedsize=false fontcolor=white fontsize=7 penwidth=4 shape=circle style=filled width=1.2]
+	15829 [label="cg21550483
+CLEC10A
+dist_tss:506
+imprtnce:0.51
+hypo:0.00
+Chrom:17" color=green fillcolor="#5B8DB8" fixedsize=false fontcolor=white fontsize=7 penwidth=2 shape=circle style=filled width=1.2]
+	9751 [label="cg13424229
+CPA3
+dist_tss:1247
+imprtnce:0.50
+hypo:0.00
+Chrom:3" color=green fillcolor="#5B8DB8" fixedsize=false fontcolor=white fontsize=7 penwidth=2 shape=circle style=filled width=1.2]
+	6616 [label="cg09169633
+MAN2A2
+dist_tss:329
+imprtnce:0.50
+hypo:0.00
+Chrom:15" color=green fillcolor="#5B8DB8" fixedsize=false fontcolor=white fontsize=7 penwidth=2 shape=circle style=filled width=1.2]
+	239 -> 15829 [label="cometh:0.86
+imprtnce:0.46" color="#555555" fontsize=6 penwidth=2.288980626811584]
+	11522 -> 239 [label="cometh:0.77
+imprtnce:0.46" color="#555555" fontsize=6 penwidth=2.276120075335105]
+	239 -> 6616 [label="cometh:0.82
+imprtnce:0.45" color="#555555" fontsize=6 penwidth=2.2552698142826557]
+	239 -> 12384 [label="cometh:0.82
+imprtnce:0.44" color="#555555" fontsize=6 penwidth=2.2241869332889714]
+	239 -> 9389 [label="cometh:0.73
+imprtnce:0.44" color="#555555" fontsize=6 penwidth=2.1898941236237683]
+	17230 -> 239 [label="cometh:0.70
+imprtnce:0.41" color="#555555" fontsize=6 penwidth=2.047980383038521]
+	9751 -> 239 [label="cometh:0.84
+imprtnce:0.38" color="#555555" fontsize=6 penwidth=1.9157690908759832]
+}

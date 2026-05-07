@@ -1,0 +1,22 @@
+disease,age_group,n,mean_accel,std_accel
+Osteoporosis,0-20,70,-0.984,5.834
+Osteoporosis,20-45,5,-2.21,17.613
+Osteoporosis,45-55,10,-3.198,3.876
+Osteoporosis,55-65,16,-5.265,2.379
+Osteoporosis,65-75,13,-6.574,3.233
+Osteoporosis,75-80,10,-10.93,3.615
+Osteoporosis,80+,3,-15.288,8.263
+Ovarian Cancer,0-20,0,,
+Ovarian Cancer,20-45,0,,
+Ovarian Cancer,45-55,34,2.367,3.782
+Ovarian Cancer,55-65,92,-2.379,3.588
+Ovarian Cancer,65-75,94,-5.541,4.898
+Ovarian Cancer,75-80,27,-7.977,3.133
+Ovarian Cancer,80+,19,-13.378,5.439
+Schizophrenia,0-20,20,1.213,2.46
+Schizophrenia,20-45,261,-0.929,3.572
+Schizophrenia,45-55,26,-4.542,3.879
+Schizophrenia,55-65,13,-5.389,2.597
+Schizophrenia,65-75,3,-7.557,0.472
+Schizophrenia,75-80,2,-10.059,8.356
+Schizophrenia,80+,1,-14.352,
